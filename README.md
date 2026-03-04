@@ -1,4 +1,4 @@
-📚 API de Biblioteca
+# 📚 API de Biblioteca
 
 API desenvolvida em TypeScript para gerenciamento de uma biblioteca, permitindo o controle de livros, usuários e empréstimos de forma organizada e eficiente.
 
@@ -14,8 +14,6 @@ Organização de código com boas práticas
 
 Manipulação de dados (CRUD)
 
-Regras de negócio (empréstimos e devoluções)
-
 🛠️ Tecnologias Utilizadas
 
 Node.js
@@ -27,3 +25,5 @@ Express
 ts-node
 
 Nodemon
+
+SQlite
